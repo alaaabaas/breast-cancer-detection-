@@ -6,4 +6,4 @@ our goal is to determine the cell characteristics by which we can identifiy mali
 
 Using several machine learning techniques along with the auto tuning technique using the grid search library we are trying to  predict a tumor to be evil or mild 
 
-####To run the code install jupiter notebook from anaconda using conda or pip You also need to install the following libraries: pandas,numpy,matplolib,SKicit-learn
+**To run the code install jupiter notebook from anaconda using conda or pip You also need to install the following libraries: pandas,numpy,matplolib,SK-learn,seaborn**
